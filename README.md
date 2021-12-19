@@ -58,3 +58,28 @@ Wordpress
 :pencil2: Blogger [@codefonsi](http://www.codefonsi.com)
 
 
+
+- Gradient
+
+![Akash Soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+- Customizing stats card
+
+![Akash Soni's GitHub stats](https://github-readme-stats.vercel.app/api/?username=akashsoni01&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+- Setting card locale
+
+![Akash Soni's GitHub stats](https://github-readme-stats.vercel.app/api/?username=akashsoni01&locale=es)
+
+- Customizing repo card
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=akashsoni01&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+- Top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashsoni01)](https://github.com/akashsoni01/github-readme-stats)
+
+- Wakatime card
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/akashsoni01/github-readme-stats)
+
