@@ -9,7 +9,8 @@ Hey there! :smile: My name is Akash soni. I'm a 24-year-old fallow Full Stack De
 I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me [an e-mail](mailto:akashsoni0to1@gmail.com) if that sounds like your cup of coffee. :coffee:
 
 
-![Akash Soni's GitHub stats](https://github-readme-stats.vercel.app/api/?username=akashsoni01&locale=es)
+
+![Akash Soni's GitHub stats](https://github-readme-stats.vercel.app/api/?username=akashsoni01)
 
 
 
