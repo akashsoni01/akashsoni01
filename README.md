@@ -1,3 +1,15 @@
+
+
+![Akash Soni's GitHub stats](https://github-readme-stats.vercel.app/api/?username=akashsoni01&locale=es)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashsoni01)](https://github.com/akashsoni01/github-readme-stats)
+
+
+
+
+
 <h1 align="center">Hi, I'm Akash soni! :stars:</h1>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bohdan-tkachenko-8283a3137/)](https://www.linkedin.com/in/akash-soni-8499b3144/)
@@ -58,17 +70,6 @@ Wordpress
 :pencil2: Blogger [@codefonsi](http://www.codefonsi.com)
 
 
-
-### - GitHub stats
-
-![Akash Soni's GitHub stats](https://github-readme-stats.vercel.app/api/?username=akashsoni01&locale=es)
-
-
-### - Top languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashsoni01)](https://github.com/akashsoni01/github-readme-stats)
-
-### - Wakatime card
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/akashsoni01/github-readme-stats)
 
