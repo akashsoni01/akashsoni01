@@ -73,10 +73,5 @@ Wordpress
 
 # Checkout some music 
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=3153lmiafojmeh4tthzg4ca3yjae&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=3153lmiafojmeh4tthzg4ca3yjae&cover_image=true&theme=default&bar_color_cover=true&bar_color=684eb1)]]
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3153lmiafojmeh4tthzg4ca3yjae&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
-
-https://spotify-github-profile.vercel.app/api/view.svg?uid=3153lmiafojmeh4tthzg4ca3yjae&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=3153lmiafojmeh4tthzg4ca3yjae&cover_image=true&theme=default
 
