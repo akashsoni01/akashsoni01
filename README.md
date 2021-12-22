@@ -73,5 +73,5 @@ Wordpress
 
 # Checkout some music 
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=3153lmiafojmeh4tthzg4ca3yjae&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=3153lmiafojmeh4tthzg4ca3yjae&cover_image=true&theme=default)]]
+https://spotify-github-profile.vercel.app/api/view.svg?uid=3153lmiafojmeh4tthzg4ca3yjae&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=3153lmiafojmeh4tthzg4ca3yjae&cover_image=true&theme=default
 
