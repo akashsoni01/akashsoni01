@@ -4,7 +4,7 @@
 
 ## About Me :wave:
 
-Hey there! :smile: My name is Akash soni. I'm a 24-year-old fallow Full Stack Developer from India, and currently reside in Toronto, Ontario, Canada. I have just implemented Composable architecture in Tokopedia and my role here is to add new module, convert code from 'MVVM design pattern and Storyboard based UI' to 'TCA Design Pattern and Texture based UI' [Tokopedia](https://www.tokopedia.com/), and I'm also looking for open-source projects to contribute to and people to collaborate with! I love creating and tinkering with different Architecture, or playing with different framworks, but maintaining SOLID programming principles. 
+Hey there! :smile: My name is Akash soni. I'm a 24-year-old fallow Full Stack Developer from India. I have just implemented Composable architecture in Tokopedia and my role here is to add new module, convert code from 'MVVM design pattern and Storyboard based UI' to 'TCA Design Pattern and Texture based UI' [Tokopedia](https://www.tokopedia.com/), and I'm also looking for open-source projects to contribute to and people to collaborate with! I love creating and tinkering with different Architecture, or playing with different framworks, but maintaining SOLID programming principles. 
 
 I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me [an e-mail](mailto:akashsoni0to1@gmail.com) if that sounds like your cup of coffee. :coffee:
 
