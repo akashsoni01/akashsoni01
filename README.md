@@ -71,7 +71,7 @@ Wordpress
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/akashsoni01/github-readme-stats)
 
-# Checkout some music 
+# Music ❤️
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3153lmiafojmeh4tthzg4ca3yjae&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
