@@ -73,7 +73,8 @@ Wordpress
 
 # See you again
 
-     Last Song             | Last Feelings        |
+
+ Last Song             | Last Feeling        |
 :-------------------------:|:-------------------------:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3153lmiafojmeh4tthzg4ca3yjae&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) | ![drake-hotline-bling (1)](https://user-images.githubusercontent.com/33283321/147128593-d4046fe5-4eab-41ea-8e10-1398f303dcf8.png)
 
