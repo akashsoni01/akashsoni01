@@ -73,10 +73,10 @@ Wordpress
 
 # See you again
 
- Last song             | Last Feelings        |
-:-------------------------:|:-------------------------:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3153lmiafojmeh4tthzg4ca3yjae&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) | ![Drake-Hotline-Bling](https://user-images.githubusercontent.com/33283321/147127869-3250a901-b3cd-4090-b775-931e031cab72.jpeg)
+                     Last song             |         Last Feelings           |
+:-----------------------------------------:|:--------------------------------:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3153lmiafojmeh4tthzg4ca3yjae&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) | 
 
-
+![drake-hotline-bling (1)](https://user-images.githubusercontent.com/33283321/147128593-d4046fe5-4eab-41ea-8e10-1398f303dcf8.png)
 
 
