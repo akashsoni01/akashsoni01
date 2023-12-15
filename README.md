@@ -20,6 +20,8 @@ I've worked on multiple plateforms.
 
 ### 1. Backend 
 
+Rust,
+
 java,
 
 spring MVC,
@@ -32,6 +34,8 @@ Laravel
 
 ### 2. Front End
 
+Svelte,
+
 iOS using Swift and Objective-c using MVC, MVVM and TCA Design pattern
 
 Android using Java and Kotlin
@@ -40,7 +44,7 @@ iOS and Android using React native and Redux programming
 
 ### 3. Other 
 
-Python for data analytic, Clustring and image processing,
+Typescript,
 
 Java Script, 
 
