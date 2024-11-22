@@ -1,78 +1,28 @@
-<h1 align="center">Hi, I'm Akash soni! :stars:</h1>
+I can help you create a profile README for your GitHub profile. Here is a basic template to get you started.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bohdan-tkachenko-8283a3137/)](https://www.linkedin.com/in/akash-soni-8499b3144/)
+```markdown
+# Hi there, I'm Akash Soni 👋
 
-## About Me :wave:
+## 🚀 About Me
+I'm a passionate developer with a keen interest in full-stack development and open-source contributions. I love exploring new technologies and working on exciting projects.
 
-Hey there! :smile: My name is Akash soni. I'm a 25-year-old fallow Full Stack Developer from India. I am currently looking forward to contribute in some open source porjects.
+## 🛠️ Technologies & Tools
+- **Languages:** JavaScript, Python, Java
+- **Frontend:** React, HTML, CSS
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, MySQL
+- **Tools:** Git, Docker, VS Code
 
+## 📈 GitHub Stats
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&show_icons=true&theme=radical)
 
-![Akash Soni's GitHub stats](https://github-readme-stats.vercel.app/api/?username=akashsoni01)
+## 📫 How to reach me
+- LinkedIn: [Akash Soni](https://www.linkedin.com/in/akashsoni01)
+- Email: akashsoni01@example.com
 
+## 🔗 Connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashsoni01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashsoni01)
+```
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashsoni01)](https://github.com/akashsoni01/github-readme-stats)
-
-
-
-## Technologies I've worked :books:
-I've worked on multiple plateforms. 
-
-### 1. Backend 
-
-Rust,
-
-java,
-
-spring MVC,
-
-Spring Security,
-
-Spring boot,
-
-Laravel 
-
-### 2. Front End
-
-Svelte,
-
-iOS using Swift and Objective-c using MVC, MVVM and TCA Design pattern
-
-Android using Java and Kotlin
-
-iOS and Android using React native and Redux programming 
-
-### 3. Other 
-
-Typescript,
-
-Java Script, 
-
-HTML, CSS, JSX, JS
-
-PHP
-
-SQL
-
-Wordpress
-
-
-#### Software:
-:coffee:
-![Swift](https://img.shields.io/badge/-Swift-green)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
-![Objective-C](https://img.shields.io/badge/-Objective--C-yellowgreen)
-
-<hr/>
-
-:star: From [@akashsoni01](https://github.com/akashsoni01)
-:pencil2: Blogger [@codefonsi](http://www.codefonsi.com)
-
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/akashsoni01/github-readme-stats)
-
-# See you again
-
-
-
+Feel free to customize this template with your own information and preferences. Let me know if you need any changes or additional sections!
