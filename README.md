@@ -1,6 +1,3 @@
-I can help you create a profile README for your GitHub profile. Here is a basic template to get you started.
-
-```markdown
 # Hi there, I'm Akash Soni 👋
 
 ## 🚀 About Me
@@ -23,6 +20,3 @@ I'm a passionate developer with a keen interest in full-stack development and op
 ## 🔗 Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashsoni01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashsoni01)
-```
-
-Feel free to customize this template with your own information and preferences. Let me know if you need any changes or additional sections!
