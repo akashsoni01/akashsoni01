@@ -5,7 +5,7 @@ I'm a passionate developer with a keen interest in full-stack development and op
 
 ## 🛠️ Technologies & Tools
 - **Languages:** Rust, Objective-C, Swift, JavaScript, Python, Java
-- **Frontend:** iOS, SwiftUI, SVELTE, React, HTML, CSS, JS
+- **Frontend:** Tauri, Texture, iOS, SwiftUI, SVELTE, React, HTML, CSS, JS
 - **Backend:** Spring Boot, Actix, Node.js, Express, Rust, Java
 - **Databases:** Postgress, Scylla, MongoDB, MySQL
 - **Tools:** Git, Docker, VS Code, XCode
