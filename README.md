@@ -19,8 +19,8 @@ I'm a passionate developer with a keen interest in full-stack development and op
 [![GitHub Skyline](https://github.com/akashsoni01/akashsoni01/blob/main/assets/skyline.gif)](https://skyline.github.com/akashsoni01/2023)
 
 ## 📫 How to reach me
-- LinkedIn: [Akash Soni](https://www.linkedin.com/in/akashsoni01)
-- Email: akashsoni01@example.com
+- LinkedIn: [Akash Soni](https://www.linkedin.com/in/akash-sonik-8499b3144/)
+- Email: akashsoni8285@gmail.com
 
 ## 🔗 Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashsoni01)
