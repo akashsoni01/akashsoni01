@@ -12,8 +12,6 @@ I'm a passionate developer with a keen interest in full-stack development and op
 
 ## 📈 GitHub Stats
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashsoni01&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashsoni01&theme=radical)
 
 ## ✨ GitHub Skyline
 [![GitHub Skyline](https://github.com/akashsoni01/akashsoni01/blob/main/assets/skyline.gif)](https://skyline.github.com/akashsoni01/2023)
