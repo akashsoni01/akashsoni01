@@ -16,7 +16,7 @@ I'm a passionate developer with a keen interest in full-stack development and op
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashsoni01&theme=radical)
 
 ## ✨ GitHub Skyline
-[![GitHub Skyline](https://github.com/akashsoni01/akashsoni01/blob/main/assets/skyline.gif)](https://skyline.github.com/akashsoni01/2025)
+[![GitHub Skyline](https://github.com/akashsoni01/akashsoni01/blob/main/assets/skyline.gif)](https://skyline.github.com/akashsoni01/2023)
 
 ## 📫 How to reach me
 - LinkedIn: [Akash Soni](https://www.linkedin.com/in/akash-sonik-8499b3144/)
