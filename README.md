@@ -23,3 +23,5 @@ I'm a passionate developer with a keen interest in full-stack development and op
 ## 🔗 Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashsoni01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-sonik-8499b3144/)
+
+<img width="1000" height="1000" alt="akashlinkedinqr" src="https://github.com/user-attachments/assets/7b074172-2470-45dd-9870-8926f14e787b" />
